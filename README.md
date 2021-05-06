@@ -1,2 +1,2 @@
-# com.castsoftware.uc.algol1
+# com.castsoftware.uc.algol
 Technology Extension for Algol Programming Language
